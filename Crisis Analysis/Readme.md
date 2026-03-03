@@ -27,23 +27,23 @@ A food delivery startup, named QuickBite Express faced a major crisis mid 2025. 
 <img width="1305" height="737" alt="Screenshot 2026-02-27 141322" src="https://github.com/user-attachments/assets/9c7a6ea7-2a6a-43b7-b123-52e4a97af502" />
 
 
-## Revenue and orders:
+### Revenue and orders:
 - orders and revenue declined by nearly 70%
 - Cancellation rate spiked to 11%
 
-## Customer Behaviour:
+### Customer Behaviour:
 - 73K customers churned
 - active users fell sharply
 - the top 5% (high-value) customers showed a major order decline
 - Many negative reviews were centered around "safety" and "quality"
 This indicates major retention issue and loss of trust.
 
-## Delivery Performance:
+### Delivery Performance:
 - Average delivery time increased to ~60 minutes
 - The SLA compliance dipped to 36%, and during crisis 87% deliveries were delayed
 This shows that there was poor opertaional efficiency.
 
-## Restaurant Analysis:
+### Restaurant Analysis:
 - top 15 restaurants witnessed a 71% order decline.
 - Some restautants with high-cancellations showed poor SLA compliance.
 
