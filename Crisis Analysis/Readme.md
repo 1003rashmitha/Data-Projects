@@ -26,9 +26,6 @@ This project analyzes the business impact of the crisis and provides data-driven
 - Calulated measures and KPIs: DAX
 - Data Modelling and visualization
 
-# Project Link:
-
-
 # Key Insights:
 
 <img width="1305" height="737" alt="Screenshot 2026-02-27 141322" src="https://github.com/user-attachments/assets/9c7a6ea7-2a6a-43b7-b123-52e4a97af502" />
