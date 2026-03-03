@@ -1,4 +1,11 @@
-A food delivery startup, named QuickBite Express faced a major crisis mid 2025. The Company witnessed a major drop in their orders, delayed deliveries and unhappy customers. I have created a dashboard to analyse data pre-crisis and post-crisis to uncover the causes.
+# Project Overview:
+QuickBite Express is a Bengaluru-based food-tech startup founded in 2020 that connects customers with nearby restaurants and cloud kitchens.
+In June 2025, QuickBite experienced a major operational and reputational crisis due to:
+- A viral social media incident involving food safety violations at partner restaurants
+- A week-long delivery outage during monsoon season
+- Aggressive competitive campaigns targeting affected users
+
+This project analyzes the business impact of the crisis and provides data-driven recommendations to support recovery.
 
 # Business Objective:
 ### The goal of this analysis is to :
