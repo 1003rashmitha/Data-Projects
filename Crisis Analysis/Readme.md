@@ -13,12 +13,6 @@ A food delivery startup, named QuickBite Express faced a major crisis mid 2025. 
 - Customer behaviour and feedback
 - Restaurant partners performance
 
-# Key findings include:
-- Revenue and total orders drop by ~70%
-- Average delivery time and cancellation rates spike
-- Customer sentiment shifted sharply negative
-- High-value customers showed significant churn
-
 # Tools used: 
 - Power BI
 - Data cleaning and Transformation: Power Query
