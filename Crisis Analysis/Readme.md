@@ -56,18 +56,18 @@ This shows that there was poor opertaional efficiency.
 
 
 # Possible fixes:
-## Customer:
+### Customer:
 1. Target high value customers with win-back campaigns.
 2. Provide personalized offers and loyalty incentives.
 
-## Restaurant fix:
+### Restaurant fix:
 1. Flag restaurants with high negative food quality complaints.
 2. Build trust by providing a "food safety verified" badge on restaurants.
 
-## Operational fixes:
+### Operational fixes:
 1. Fix the delivery operations, by implementing real-time SLA compliance and making it weather adaptive.
 2. Real time delay communication.
 
-## Rebuild Trust:
+### Rebuild Trust:
 1. Monitor customer sentiment very frequently.
 2. Highlight transparency initiatives.
